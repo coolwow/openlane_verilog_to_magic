@@ -1,0 +1,4 @@
+verilog/gl/
+mag/
+openlane/*/runs
+logs.txt
